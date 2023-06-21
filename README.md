@@ -6,8 +6,8 @@ This research project focuses on the computational studies of Calcium Silicate H
 ## Literature Review
 For a deeper understanding of the subject, a literature review has been conducted covering various aspects of high-temperature effects on CSH and computational techniques used in material science. The references have been organized and stored in the Zotero reference management software for easy access.
 
-Please visit the following link to access the curated Zotero library: [Zotero Library](https://www.zotero.org/groups/5014044/csh_at_high_temperature/library).
-you can also find an Excel spread sheet listed above summarizing qualitative parameters, from NMR XRay TGA and Nanoindentation at various temperatures.  
+Please visit the following link to access the curated Zotero library: [Zotero Library](https://www.zotero.org/groups/5014044/csh_at_high_temperature/library). \n
+You can also find an Excel spreadsheet listed above summarizing qualitative parameters, from NMR XRay TGA and Nanoindentation at various temperatures.  
 
 
 ## Contributing
