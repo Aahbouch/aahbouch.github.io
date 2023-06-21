@@ -9,6 +9,9 @@ For a deeper understanding of the subject, a literature review has been conducte
 Please visit the following link to access the curated Zotero library: [Zotero Library](https://www.zotero.org/groups/5014044/csh_at_high_temperature/library).
 You can also find an Excel spreadsheet listed above summarizing qualitative parameters, from NMR XRay TGA and Nanoindentation at various temperatures.  
 
+## Acknowledgement
+
+The computational model employed in this project is based on the work found at this [GitHub repository](https://github.com/chiang-yuan/csh4lmp). We express our gratitude to the original authors for providing such a comprehensive model that significantly contributed to the success of our project.
 
 ## Contributing
 We welcome contributions to this project. If you find any issues or have suggestions, please open an issue in the issue tracker. If you wish to contribute code, please fork this repository and submit a pull request.
