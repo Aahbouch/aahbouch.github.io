@@ -1,10 +1,10 @@
-# High Temperature Computational Studies on CSH
+# High-Temperature Effects on Calcium-Silicate-Hydrates
 
 ## Project Abstract
-This research project focuses on the computational studies of Calcium Silicate Hydrate (CSH) at high temperatures. Our goal is to explore and understand the structural, thermodynamic, and kinetic behavior of CSH when exposed to elevated temperature conditions. The study will employ various computational and modeling techniques, such as Molecular Dynamics (MD), Density Functional Theory (DFT), and Monte Carlo simulations.
+This research project focuses on the computational studies of Calcium Silicate Hydrate (CSH) at high temperatures. Our goal is to explore and understand the structural, and mechanical behavior of CSH when exposed to high-temperature conditions. The study will employ Molecular dynamics simulation. some of the input files, data files, and Python codes used for post-processing are also listed above.
 
 ## Literature Review
-For a deeper understanding of the subject, a literature review has been conducted covering various aspects of high-temperature effects on CSH and computational techniques used in material science. The references have been meticulously organized and stored in the Zotero reference management software for easy access.
+For a deeper understanding of the subject, a literature review has been conducted covering various aspects of high-temperature effects on CSH and computational techniques used in material science. The references have been organized and stored in the Zotero reference management software for easy access.
 
 Please visit the following link to access the curated Zotero library: [Zotero Library](https://www.zotero.org/groups/5014044/csh_at_high_temperature/library).
 
