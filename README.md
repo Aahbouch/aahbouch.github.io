@@ -5,7 +5,8 @@ This research project focuses on the computational studies of Calcium Silicate H
 
 ## Illustration of the Supercell and atom types
 
-![Project Illustration](images/Description.png)
+![Supercell and Atom Types](images/Description.png)
+<img src="Description.png" width="400">
 
 
 ## Literature Review
